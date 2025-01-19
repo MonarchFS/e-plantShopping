@@ -138,6 +138,7 @@ body {
 }
 .tag a{
     text-decoration: none;
+    margin-left: 50px;
 }
 .tag {
     width: 400px;
